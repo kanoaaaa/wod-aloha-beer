@@ -1,0 +1,19 @@
+.navbar-dark {
+    background-color: #343a40;
+}
+
+.bg-warning {
+    background-color: #EDC601 !important;
+}
+.position-relative h1 {
+    color: #EDC601;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+footer {
+    background-color: #EDC601;
+    color: black;
+    padding: 20px 0;
+}
+.highlight {
+    color: #EDC601 !important; 
+}

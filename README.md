@@ -1,1 +1,1 @@
-# wow-aloha-beer
+# wod-aloha-beer
